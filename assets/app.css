@@ -1,0 +1,3 @@
+.columns:nth-child(2) > .column {
+    background-color: lavender;
+}
